@@ -1,0 +1,1 @@
+in order to update the website after you make a change make sure to enter "python generate_portfolio.py" into the terminal
